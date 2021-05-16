@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hassan-Hmc
 - 👀 I’m interested in Web develpment and Software engineering
-- 🌱 I’m currently react-native.
-- 💞️ I’m looking to collaborate on HTML,CSS,Javascript,react js ,Firebase database
+- 🌱 I’m currently Working on learn react-native.
+- 💞️ I’m looking to collaborate on HTML,CSS,Javascript,react js ,Firebase database and React js.
 - 📫 How to reach me Via inbox or my portfolio
 
 <!---
