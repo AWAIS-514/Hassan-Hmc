@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-shahid-b148b8223/"><img src="https://img.shields.io/badge/-Ahsan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:meet2freelancing@gmail.com"><img src="https://img.shields.io/badge/-m.ahsan8588@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:meet2freelancing@gmail.com"><img src="https://img.shields.io/badge/-meet2freelancing@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
@@ -31,14 +31,14 @@
   </tr>
   <tr>
     <td>
-<a href="https://github.com/devahsanabdullah/devahsanabdullah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devahsanabdullah&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
+<a href="https://github.com/Hassan-Hmc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-hmc&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
 </a></td>
     <td>
    
 
 
-  <a href="https://github.com/devahsanabdullah/github-readme-stats">
+  <a href="https://github.com/Hassan-Hmc/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahsanabdullah&theme=highcontrast" />
 </a>
 </td>
@@ -48,26 +48,20 @@
 <!-- Trpophies -->
 
 ## Trophies
-![https://github.com/devahsanabdullah?tab=repositories](https://github-profile-trophy.vercel.app/?username=devahsanabdullah&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![https://github.com/Hassan-Hmc?tab=repositories](https://github-profile-trophy.vercel.app/?username=hassan-hmc&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
 
-<a href="[http://www.github.com/hicodersofficial](https://github.com/devahsanabdullah?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=devahsanabdullah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="[http://www.github.com/Hassan-Hmc](https://github.com/Hassan-Hmc?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=Hassan-Hmc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-## Consistency:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devahsanabdullah&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
-
-<!-- Tools And Techs -->
 
 ## 🕸️ *Programming Languages*
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Typescript")
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black "Java")
+
 
 
 ## 🕸️ *WEB DEV*
@@ -79,7 +73,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
@@ -93,7 +86,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white "Material UI")
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React")
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white "Next.js")
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white "SASS")
 
 ## 📅 *DATABASES*
@@ -135,7 +127,7 @@
 ## Achievements:
 
 <div align="center">  
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=devahsanabdullah&margin-w=15&margin-h=15" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Hassan-Hmc&margin-w=15&margin-h=15" />
 
 </div>
 
