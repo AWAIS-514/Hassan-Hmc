@@ -9,8 +9,8 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-shahid-b148b8223/"><img src="https://img.shields.io/badge/-Ahsan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:meet2freelancing@gmail.com"><img src="https://img.shields.io/badge/-meet2freelancing@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassan-shahid-b148b8223/"><img src="https://img.shields.io/badge/-Hassan-Hmc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:meet2freelancing@gmail.com"><img src="https://img.shields.io/badge/-meet2freelancing@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 
@@ -39,7 +39,7 @@
 
 
   <a href="https://github.com/Hassan-Hmc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahsanabdullah&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Hmc&theme=highcontrast" />
 </a>
 </td>
   </tr>
@@ -132,11 +132,4 @@
 </div>
 
 <br />
-<!-- 
-<a href="https://github.com/devahsanabdullah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanabdullah&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/devahsanabdullah/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devahsanabdullah&repo=convoychat" />
-</a>
- -->
+
