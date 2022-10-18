@@ -87,7 +87,7 @@
 
 ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
-![Firebase](https://img.shields.io/badge/nodejs-P9941.svg?style=for-the-badge&logo=nodejs "Node js")
+![Firebase](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png "Node js")
 
 ## 🛠️ *DEVOPS TOOLS*
 
