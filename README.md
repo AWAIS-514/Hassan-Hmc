@@ -9,7 +9,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hassan-shahid-b148b8223/"><img src="https://img.shields.io/badge/-Hassan-Hmc-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hassan-shahid-b148b8223/"><img src="https://img.shields.io/badge/-Hassan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:meet2freelancing@gmail.com"><img src="https://img.shields.io/badge/-meet2freelancing@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
