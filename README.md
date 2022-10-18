@@ -45,13 +45,6 @@
   </tr>
   </table>
 
-<!-- Trpophies -->
-
-## Trophies
-![https://github.com/Hassan-Hmc?tab=repositories](https://github-profile-trophy.vercel.app/?username=hassan-hmc&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
-
-
-<a href="[http://www.github.com/Hassan-Hmc](https://github.com/Hassan-Hmc?tab=repositories)"><img src="https://activity-graph.herokuapp.com/graph?username=Hassan-Hmc&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=#00ccff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
