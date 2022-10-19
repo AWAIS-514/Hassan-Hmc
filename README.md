@@ -22,28 +22,7 @@
 </div>
 
 
-## 📊 GitHub Statistics
 
-<table>
-  <tr>
-    <th><h1>Score</h1></th>
-    <th><h1>Languages</h1></th>
-  </tr>
-  <tr>
-    <td>
-<a href="https://github.com/Hassan-Hmc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hassan-hmc&show_icons=true&line_height=27&count_private=true&title_color=#00ccff&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Dev Umair GitHub Stats" />
-</a></td>
-    <td>
-   
-
-
-  <a href="https://github.com/Hassan-Hmc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Hmc&theme=highcontrast" />
-</a>
-</td>
-  </tr>
-  </table>
 
 
 
@@ -128,4 +107,6 @@
 </div>
 
 <br />
+
+
 
